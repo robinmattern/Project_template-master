@@ -1,0 +1,123 @@
+        find "." -maxdepth 9 -iname "*!*" -x 'node_mod|bower_comp|.git'
+  ----------  ----------------  -----------------------------------------------------
+           0  2020-10-04 14:51  ./!_{Pjs}-{Pn}-{Prjn}_{Proj} Project (m-dd-yyyy)
+           0  2022-03-31 16:03  ./._/!!1__Support Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/CFGs/!!1_Config Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/CODe/!!1_Code Samples for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/DOCs/!!1_Documtation Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/FDLs/!!1_File & Dir Listings for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/INSt/!!1_Install Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/LOGs/!!1_Log Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/ZIPs/!!1_Archive Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+
+           0  2022-03-31 16:03  ./._1/!1__Runtime Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/EXEs/!1_Executable Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/JPTs/!1_JScriptWare Power Tools for {Cust}'s Proj} Project in {SrvN} on All Stages
+           0  2020-05-18 13:18  ./._1/JSHs/!1_Shell Scripts for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/NJSs/!1_NodeJS Scripts for {Cust}'s Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/PS1s/!1_PowerShell Scripts for {Cust}'s {Proj} Project in {SvrN} on All Stages
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/!_{Pjs}-{Pn}-{Prjn}_{Proj} on Stage {StgN}-{Ownr}_uYMMDD
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/!2__Runtime Files for {Proj} in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/JSHs/!2_Shell Scripts  for {Proj} in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/NJSs/!2_NodeJS Scripts for {Proj} in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/PS1s/!2_PowerShell Scripts for {Proj} in {SvrN} on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/client1/!_{Proj} Client1-Apps on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/!3c1__Runtime Files for {Proj} Client1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/CSSs/!3c1_Stylesheets for {Proj} Client1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/JSCs/!3c1_Javascript Files for {Proj} Client1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/JSHs/!3c1_Shell Scripts for {Proj} Client1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/NJSs/!3c1_NodeJS Scripts for {Proj} Client1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/client1/1c1_first-app/!_{Proj} First Client1 App on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/docs/!_{Proj} Docsify Files on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/server1/!_{Proj} Server1 Apps on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3c1/!3s1__Runtime Files for {Proj} Server1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3c1/CSSs/!3s1_Stylesheets for {Proj} Server1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3c1/JSCs/!3s1_Javascript Files for {Proj} Server1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3c1/JSHs/!3s1_Shell Scripts for {Proj} Server1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3c1/NJSs/!3s1_NodeJS Scripts for {Proj} Server1 Apps in {SvrN} on Stage {StgN}-{Ownr}
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/server1/1s1_first-api/!_{Proj} First Server1 App on Stage {StgN}-{Ownr}
+
+
+        find "." -maxdepth 9 -iname "*!*" -x 'node_mod|bower_comp|.git'
+  ----------  ----------------  -----------------------------------------------------
+           0  2020-10-04 14:51  ./                                          !_{Pjs}-{Pn}-{Prjn}_                     {Proj} Project    (m-dd-yyyy)
+           0  2022-03-31 16:03  ./._/                                       !!1__Support Files          for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/CFGs/                                  !!1_Config Files            for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/CODe/                                  !!1_Code Samples            for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/DOCs/                                  !!1_Documtation Files       for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/FDLs/                                  !!1_File & Dir Listings     for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/INSt/                                  !!1_Install Files           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/LOGs/                                  !!1_Log Files               for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/ZIPs/                                  !!1_Archive Files           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+
+           0  2022-03-31 16:03  ./._1/                                      !1__Runtime Files           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/EXEs/                                 !1_Executable Files         for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/JPTs/                                 !1_JScriptWare Power Tools  for {Cust}'s {Proj} Project in {SrvN} on All Stages
+           0  2020-05-18 13:18  ./._1/JSHs/                                 !1_Shell Scripts            for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/NJSs/                                 !1_NodeJS Scripts           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/PS1s/                                 !1_PowerShell Scripts       for {Cust}'s {Proj} Project in {SvrN} on All Stages
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/                            !_{Pjs}-{Pn}-{Prjn}_                     {Proj}_                           {StgN}-{Ownr}_uYMMDD
+
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/                        !2__Runtime Files           for          {Proj}         in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/JSHs/                   !2_Shell Scripts            for          {Proj}         in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/NJSs/                   !2_NodeJS Scripts           for          {Proj}         in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/._2/PS1s/                   !2_PowerShell Scripts       for          {Proj}         in {SvrN} on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/client1/                    !_{Proj}                               Client1 Apps               on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/              !3c1__Runtime Files         for {Proj} Client1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/CSSs/         !3c1_Stylesheets            for {Proj} Client1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/JSCs/         !3c1_Javascript Files       for {Proj} Client1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/JSHs/         !3c1_Shell Scripts          for {Proj} Client1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/client1/._3c1/NJSs/         !3c1_NodeJS Scripts         for {Proj} Client1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/client1/1c1_first-try-app/  !_{Proj} First                         Client1 App      in {SvrN} on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/docs/                       !_{Proj} Docsify Files                                  in {SvrN} on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/server1/                    !_{Proj}                               Server1 Apps               on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3sc1/             !3s1__Runtime Files         for {Proj} Server1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3s1/CSSs/         !3s1_Stylesheets            for {Proj} Server1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3s1/JSCs/         !3s1_Javascript Files       for {Proj} Server1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3s1/JSHs/         !3s1_Shell Scripts          for {Proj} Server1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2020-05-18 13:18  ./{stg1}-{ownr}/server1/._3s1/NJSs/         !3s1_NodeJS Scripts         for {Proj} Server1 Apps     in {SvrN} on Stage {StgN}-{Ownr}
+
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/server1/1s1_first-try-api/  !_{Proj} First                         Server1 App      in {SvrN} on Stage {StgN}-{Ownr}
+
+  ----------  ----------------  -----------------------------------------------------
+
+           0  2020-10-04 14:51  ./                                          !_{Pjs}-{Pn}-{Prjn}_{Proj}              Project                                          (m-dd-yyyy)
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/                            !_{Pjs}-{Pn}-{Prjn}_{Proj}              Project                   on Stage {StgN}-{Ownr}_uYMMDD
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/client1/                    !_{Proj}                                Client1 Apps    in {SvrN} on Stage {StgN}-{Ownr}
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/client1/1c1_first-app/      !_{Proj} First                          Client1 App     in {SvrN} on Stage {StgN}-{Ownr}
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/docs/                       !_{Proj}                                Docsify Files   in {SvrN} on Stage {StgN}-{Ownr}
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/server1/                    !_{Proj}                                Server1 Apps    in {SvrN} on Stage {StgN}-{Ownr}
+           0  2022-09-24 17:37  ./{stg1}-{ownr}/server1/1s1_first-api/      !_{Proj} First                          Server1 App     in {SvrN} on Stage {StgN}-{Ownr}
+
+           0  2022-03-31 16:03  ./._/                                       !!1__Support Files          for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/CFGs/                                  !!1_Config Files            for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/CODe/                                  !!1_Code Samples            for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/DOCs/                                  !!1_Documtation Files       for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/FDLs/                                  !!1_File & Dir Listings     for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/INSt/                                  !!1_Install Files           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/LOGs/                                  !!1_Log Files               for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._/ZIPs/                                  !!1_Archive Files           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+
+           0  2022-03-31 16:03  ./._1/                                      !1__Runtime Files           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/EXEs/                                 !1_Executable Files         for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/JPTs/                                 !1_JScriptWare Power Tools  for {Cust}'s {Proj} Project in {SrvN} on All Stages
+           0  2020-05-18 13:18  ./._1/JSHs/                                 !1_Shell Scripts            for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/NJSs/                                 !1_NodeJS Scripts           for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2020-05-18 13:18  ./._1/PS1s/                                 !1_PowerShell Scripts       for {Cust}'s {Proj} Project in {SvrN} on All Stages
+
+
+           0  2022-03-31 16:03  ./._/!!1__Support Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+           0  2022-03-31 16:03  ./._1/!1__Runtime Files for {Cust}'s {Proj} Project in {SvrN} on All Stages
+
+
+
+
